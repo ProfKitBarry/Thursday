@@ -2,4 +2,5 @@ This is a new file, it's got one line. How exciting.
 This is a second line.
 
 The 4th line is way cooler than the rest :-)
-This is another line that we've added in new branch, you won't see it in master yet.
+:-)
+On the second branch we can make even more edits.
